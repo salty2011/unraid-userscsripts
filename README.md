@@ -1,4 +1,3 @@
-```
 # Unraid User Scripts
 
 This repository contains a collection of scripts designed to enhance the functionality of Unraid servers. These scripts cover a range of purposes, from hardware configuration to system management. Each script is detailed below with its purpose, usage instructions, and any necessary warnings or prerequisites.
